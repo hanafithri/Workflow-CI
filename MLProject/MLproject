@@ -1,4 +1,4 @@
-name: EmployeeAttrition
+name: EmployeeAttritionProject
 
 conda_env: conda.yaml
 
